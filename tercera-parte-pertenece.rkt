@@ -1,4 +1,16 @@
 #lang racket
+
+;Universidad Nacional
+;Facultad de Ciencias Exactas y Naturales
+;Sede Interuniversitaria de Alajuela, SIUA
+;EIF-400 –QuizCorto
+;II Ciclo 2022
+;Dr. Juan de Dios Murillo-Morera
+;Estudiante: Jonathan Pineda Alemán 
+;ID: 207690564
+
+
+
 ;Construya una función Scheme (Pertenece? X L) que retorna verdadero o falso dependiendo de si el
 ;elemento X pertenece a la lista L o no.
 ;Utilizando la función Pertenece? construya una función (Resta L1 L2) que le resta a la lista L1 la lista L2,

@@ -1,4 +1,15 @@
 #lang racket
+
+;Universidad Nacional
+;Facultad de Ciencias Exactas y Naturales
+;Sede Interuniversitaria de Alajuela, SIUA
+;EIF-400 –QuizCorto
+;II Ciclo 2022
+;Dr. Juan de Dios Murillo-Morera
+;Estudiante: Jonathan Pineda Alemán 
+;ID: 207690564
+
+
 ;Construya una función Scheme (Divide L X)
 ;que retorna una lista compuesta por dos sublistas que contienen los elementos de la lista original,
 ;en la primera de las listas están los elementos menores o iguales a X

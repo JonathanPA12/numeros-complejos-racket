@@ -1,6 +1,13 @@
 #lang racket
 
-
+;Universidad Nacional
+;Facultad de Ciencias Exactas y Naturales
+;Sede Interuniversitaria de Alajuela, SIUA
+;EIF-400 –QuizCorto
+;II Ciclo 2022
+;Dr. Juan de Dios Murillo-Morera
+;Estudiante: Jonathan Pineda Alemán 
+;ID: 207690564
 
 ;EJERCICIO 1.A
 
