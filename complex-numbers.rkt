@@ -29,6 +29,7 @@
 (define (conjugado a b i)
   (- a(* b i)))
 
+;EJERCICIO 1.B
 ;----------------------------------------------------------------------------------------------------------------------------------
 
 ;(Multiplica L) // Multiplica todos los elementos de la lista L
@@ -79,8 +80,9 @@
 (define (Subconjunto? L1 L2)
   (if (null? L1)
       #t
-      (and (member (car L1) L2) (Subconjunto? (cdr L1) L2)))); funcion member retorna #t si el elemento está en la lista
-;https://www.cs.bham.ac.uk/research/projects/poplog/paradigms_lectures/lecture5.html
+      (and (member (car L1) L2) (Subconjunto? (cdr L1) L2))))
+      ; funcion member retorna #t si el elemento está en la lista
+      ;https://www.cs.bham.ac.uk/research/projects/poplog/paradigms_lectures/lecture5.html
 
 ;(Eliminar X L) que elimina la primera aparición de X en la lista L, el resultado lo deja en otra lista.
 (define (Eliminar X L)
